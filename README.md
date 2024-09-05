@@ -1,7 +1,7 @@
 # 🧘🏽‍♂️ Neal Patel
 **`Data Analyst`**
 
-I'm a data analyst with a ton of experience across different industries in the analytics space. My main tools are SQL and Python, and I'm using my expertise to showcase the kinds of projects I deliver in the professional world — while also pushing the boundaries with some side projects (eventually 😅).
+I'm a data analyst with a ton of experience across different industries in the analytics space. My aim is to use my expertise and showcase the types of projects that an Analyst can expect to deliver in the professional world — while also pushing the boundaries with some side projects (eventually 😅).
 
 This GitHub is all about showing the real impact analytics can have in a world full of data scientists and developers. Ready to join me on this journey? 🚂 🛄          
                     
