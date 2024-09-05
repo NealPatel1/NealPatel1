@@ -1,4 +1,4 @@
-# 🧘‍♂️ Neal Patel
+# 🧘🏽‍♂️ Neal Patel
 **`Data Analyst`**
 
 I'm a data analyst with a ton of experience across different industries in the analytics space. My main tools are SQL and Python, and I'm using my expertise to showcase the kinds of projects I deliver in the professional world — while also pushing the boundaries with some side projects (eventually 😅).
